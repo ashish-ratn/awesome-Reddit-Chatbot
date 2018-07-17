@@ -1,2 +1,2 @@
-# awesome-Reddit-Chatbot
+# Awesome-Reddit-Chatbot
  In order to create a chatbot, or really do any machine learning task, of course, the first job you have is to acquire training data, then you need to structure and prepare it to be formatted in a "input" and "output" manner that a machine learning algorithm can digest. Arguably, this is where all the real work is when doing just about any machine learning. The building of a model and training/testing steps are the easy parts!
